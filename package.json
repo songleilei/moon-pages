@@ -1,0 +1,38 @@
+{
+  "name": "moon-pages",
+  "version": "0.1.0",
+  "description": "Awesome node module",
+  "keywords": [
+    "moon-pages"
+  ],
+  "homepage": "https://github.com/songleilei/moon-pages#readme",
+  "bugs": {
+    "url": "https://github.com/songleilei/moon-pages/issues"
+  },
+  "license": "MIT",
+  "author": "rf y <709241197@qq.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songleilei/moon-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix",
+    "test": "ava"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^2.2.0",
+    "standard": "^13.1.0"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
