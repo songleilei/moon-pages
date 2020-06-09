@@ -45,7 +45,7 @@
     "gulp-useref": "^4.0.1"
   },
   "devDependencies": {
-    "ava": "^2.2.0",
+    "ava": "^3.8.2",
     "standard": "^13.1.0"
   },
   "engines": {
