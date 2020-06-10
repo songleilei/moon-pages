@@ -15,6 +15,7 @@
     "lib"
   ],
   "main": "lib/index.js",
+  "bin": "bin/moon-pages.js",
   "directories": {
     "lib": "lib",
     "test": "test"
